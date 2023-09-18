@@ -1,1 +1,1 @@
-# LG-Scraping
+# `LG Products Price Comparator bot`
